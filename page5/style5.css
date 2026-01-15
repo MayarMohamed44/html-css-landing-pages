@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family: 'Avenir', sans-serif;
+    margin: 20px 0px;
+}
+
+.card{
+    display: inline-block;
+    margin: 20px;
+    text-align: left;
+}
+
+h1{
+    width: 531px;
+    height: 208;
+    font-size: 88px;
+    line-height: 104px;
+    margin: 64px 0px 30px 110px;
+    text-align: left;
+}
+
+.num{
+    font-size: 32px;
+    line-height: 100%;
+    color: #2525258C;
+    margin-bottom: 0px;
+}
+
+.para{
+    width: 400px;
+    height: 90px;
+    size: 24px;
+    line-height: 20px;
+    color: #252525CC;
+    margin-bottom: 0px;
+}

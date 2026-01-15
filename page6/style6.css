@@ -1,0 +1,140 @@
+body{
+    text-align: center;
+    margin: 0px;
+}
+
+.inline{
+    display: inline-block;
+    margin: 70px;
+    text-align: left;
+}
+
+h1{
+    width: 629px;
+    height: 240px;
+    font-size: 64px;
+    line-height: 80px;
+}
+
+.para{
+    width: 520px;
+    height: 100px;
+    font-size: 24px;
+    line-height: 30px;
+    color: #333333;
+}
+
+#btn1{
+    width: 150px;
+    height: 50px;
+    border-radius: 16px;
+    border: 1px solid #050505;
+    background-color: #050505;
+    color: white;
+    font-size: 16px;
+    margin-right: 20px;
+
+}
+
+#btn2{
+    width: 150px;
+    height: 50px;
+    border: 1px solid #050505;
+    border-radius: 16px;
+    background-color: white;
+    color: #333333;
+    font-size: 16px;
+}
+
+.all{
+    border: 1px solid black;
+    border-radius: 24px;
+    padding: 0px;
+    margin-top: 60px;
+}
+
+.text{
+    display: inline-block;
+    margin: 20px 30px;
+}
+
+.small{
+    width: 91px;
+    height: 20px;
+    font-size: 16px;
+    line-height: 100%;
+    color: #111111;
+}
+
+.blackimg{
+    position: relative;
+    top: -40px;
+    left: 0px;
+    z-index: 0;
+}
+
+.shape1{
+    width: 480px;
+    height: 570px;
+    border: 2px solid #111111;
+    border-radius: 40px;
+    position: absolute;
+    top: 100px;
+    left: 850px;
+    z-index: -1;
+}
+
+.shape2{
+    width: 310px;
+    height: 475px;
+    border: 2px solid #111111;
+    border-radius: 40px;
+    position: absolute;
+    top: 350px;
+    right: 90px;
+    z-index: -1;
+}
+
+.star{
+    position: absolute;
+    top: 62px;
+    left: 783px;
+    z-index: 0;
+}
+
+.spark1{
+    position: absolute;
+    top: 200px;
+    left: 930px;
+    z-index: 1;
+}
+
+.spark2{
+    position: absolute;
+    top: 620px;
+    right: 150px;
+    z-index: 1;
+}
+
+.purple{
+    width: 180px;
+    height: 50px;
+    border-radius: 16px;
+    border: 1px solid #685FD4;
+    background-color: #685FD4;
+    color: white;
+}
+
+.btn3{
+    position: absolute;
+    top: 200px;
+    right: 100px;
+    font-size: 14px;
+}
+
+.btn4{
+    position: absolute;
+    top: 690px;
+    right: 520px;
+    font-size: 16px;
+}

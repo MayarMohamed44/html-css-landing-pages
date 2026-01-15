@@ -1,0 +1,51 @@
+body{
+    text-align: left;
+    font-family: 'Avenir', sans-serif;
+    margin: 10px 0px;
+}
+
+.main{
+    display: inline-block;
+    margin: 10px;
+}
+
+.text{
+    width: 500px;
+    height: 415px;
+    margin-left: 100px;
+}
+
+h1{
+    width: 500px;
+    height: 153px;
+    font-size: 64px;
+    line-height: 80px;
+}
+
+.para{
+    width: 500px;
+    height: 144px;
+    font-size: 26px;
+    line-height: 100%;
+    color: #252525CC;
+    margin: 0px;
+}
+
+.btn{
+    width: 158px;
+    height: 54px;
+    background-color: #252525;
+    color: #fff;
+    border-radius: 16px;
+    padding: 18px 48px;
+    margin-bottom: 80px;
+}
+
+.num{
+    width: 500px;
+    height: 44px;
+    font-size: 32px;
+    line-height: 100%;
+    color: #2525258C;
+    margin-bottom: 0px;
+}

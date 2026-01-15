@@ -1,0 +1,35 @@
+body{
+    font-family: 'Avenir', sans-serif;
+    text-align: center;
+    margin: 20px 0px;
+}
+
+h1{
+    width: 900px;
+    height: 187px;
+    font-size: 72px;
+    line-height: 88px;
+    text-align: left;
+    margin: 50px 0px 20px 70px;
+}
+
+.card{
+    display: inline-block;
+    margin: 15px;
+    text-align: left;
+}
+
+.num{
+    font-size: 40px;
+    line-height: 100%;
+    color: #25252559;
+    margin-bottom: 0px;
+}
+
+.text{
+    width: 316px;
+    height: 66px;
+    font-size: 24px;
+    line-height: 30px;
+    color: #252525CC;
+}

@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    margin: 20px;
+}
+
+.text{
+    font-family: 'Avenir', sans-serif;
+    width: 610px;
+    height: 301px;
+    margin: 64px 0px 65px 415px;
+    
+}
+
+h1{
+    font-size: 64px;
+    line-height: 80px;
+    margin-bottom: 0px;
+}
+
+p{
+    font-size: 20px;
+    line-height: 100%;
+}
+
+#btn{
+    width: 158px;
+    height: 54px;
+    background-color: #252525;
+    color: #fff;
+    border-radius: 16px;
+    padding: 18px 48px;
+}
+
+.img{
+    display: inline-block;
+    width: 316px;
+    height: 288px;
+    border-radius: 16px;
+    margin: 10px;
+}

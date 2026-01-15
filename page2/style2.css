@@ -1,0 +1,59 @@
+body{
+    text-align: center;
+    font-family: 'Avenir', sans-serif;
+    margin: 20px 0px;
+}
+
+.first{
+    display: inline-block;
+    margin: 10px;
+}
+
+#text{
+    width: 444px;
+    height: 473px;
+    text-align: left;
+    position: relative;
+    top: 100px;
+}
+
+h1{
+    font-size: 56px;
+    line-height: 80px;
+    margin-bottom: 0px;
+}
+
+#para{
+    font-size: 26px;
+    line-height: 100%;
+}
+
+#btn{
+    width: 120px;
+    height: 40px;
+    background-color: #252525;
+    color: #fff;
+    border-radius: 16px;
+    padding: 10px 20px;
+}
+
+.move{
+    position: relative;
+    top: 217px;
+}
+
+.second{
+    margin-top: 240px;
+}
+
+.num{
+    text-align: left;
+    font-size: 40px;
+    margin: 0px;
+    color: #25252540;
+}
+
+.img{
+    display: inline-block;
+    margin: 20px;
+}
