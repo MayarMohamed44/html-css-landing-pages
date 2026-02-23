@@ -1,0 +1,103 @@
+html, body {
+  height: auto;
+  margin: 0;
+}
+
+body {
+    font-family: 'Avenir', sans-serif;
+    margin: 50px;
+    color: #FFFFFF;
+
+    min-height: auto;
+
+    background:
+        linear-gradient(
+            to bottom,
+            #09212C 0%,
+            #043E49 100%,
+            transparent 100%
+        ),
+        url("./assets/background.png");
+
+    background-size: 30% 100%, 70% 100%;
+    background-position: left top, 100% top;
+    background-repeat: no-repeat;
+}
+
+.rec1{
+    width: 790px;
+    height: 518px;
+    border-radius: 24px;
+    background-image: linear-gradient(180deg, #000000CC 0%, #00000026 100%);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+
+    position: absolute;
+    top: 170px;
+    left: 50px;
+    z-index: -1
+}
+
+.text{
+    width: 724px;
+    height: 518px;
+    position: relative;
+    top: 175px;
+    left: 90px;
+}
+
+h1{
+    width: 550px;
+    height: 144px;
+    font-size: 64px;
+    line-height: 72px;
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+.text p{
+    width: 550px;
+    height: 108px;
+    font-size: 26px;
+    line-height: 32px;
+}
+
+button{
+    width: 182px;
+    height: 66px;
+    background-color: #63E1E140;
+    color: #000000;
+    font-size: 24px;
+    border-radius: 36px;
+    border: 1px solid #63E1E140;
+} 
+
+.rec2{
+    width: 1430px;
+    height: 171px;
+    border-radius: 32px;
+    border: 1px solid white;
+    background-image: linear-gradient(180deg, #241c1c 0%, #00000000 100%);
+    -webkit-backdrop-filter: blur(5px);
+    backdrop-filter: blur(5px);
+
+    position: absolute;
+    top: 755px;
+    left: 50px;
+    z-index: -1
+}
+
+.blocks{
+    position: relative;
+    top: 210px;
+    left: 0px;
+    z-index: 2;
+    margin-bottom: 300px;
+}
+
+.block{
+    width: 250px;
+    height: 123px;
+    display: inline-block;
+    margin-left: 92px;
+}

@@ -1,0 +1,134 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+    text-align: center;
+}
+
+.main{
+    width: 698px;
+    height: 322px;
+    position: absolute;
+    top: 0px;
+    left: 405px;
+}
+
+h1{
+    width: 600px;
+    height: 160px;
+    font-size: 72px;
+    line-height: 80px;
+    font-weight: 700;
+    margin-left: 48px;
+    margin-bottom: 0px;
+}
+
+.main p{
+    width: 433px;
+    height: 64px;
+    font-size: 24px;
+    line-height: 32px;
+    margin-left: 130px;
+}
+
+button{
+    width: 121px;
+    height: 50px;
+    background-color: #252525;
+    color: #FFFFFF;
+    font-size: 16px;
+    border-radius: 24px;
+    border: 1px solid #252525;
+} 
+
+.left{
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+
+.right{
+    position: absolute;
+    top: 60px;
+    right: 100px;
+}
+
+.middle{
+    position: absolute;
+    top: 420px;
+    left: 611px;
+    padding-bottom: 50px;
+}
+
+.img1{
+    position: absolute;
+    top: 650px;
+    left: 100px;
+}
+
+.img2{
+    position: absolute;
+    top: 420px;
+    left: 315px;
+}
+
+.img3{
+    position: absolute;
+    top: 720px;
+    left: 315px;
+}
+
+.img4{
+    position: absolute;
+    top: 450px;
+    right: 315px;
+}
+
+.img5{
+    position: absolute;
+    top: 750px;
+    right: 315px;
+}
+
+.img6{
+    position: absolute;
+    top: 540px;
+    right: 100px;
+}
+
+.text1{
+    width: 177px;
+    height: 174px;
+    position: absolute;
+    top: 380px;
+    left: 100px;
+}
+
+.text1 p{
+    width: 177px;
+    height: 144px;
+    font-size: 28px;
+    font-style: italic;
+    line-height: 48px;
+}
+
+hr{
+    border: 3px solid #252525;
+}
+
+
+.text2{
+    width: 105px;
+    height: 174px;
+    position: absolute;
+    top: 800px;
+    right: 100px;
+}
+
+.text2 p{
+    width: 105px;
+    height: 144px;
+    font-size: 32px;
+    font-style: italic;
+    line-height: 48px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,91 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+
+.text1{
+    width: 356px;
+    height: 482px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+
+.text2{
+    position: absolute;
+    top: 500px;
+    right: 100px;
+}
+
+h1{
+    width: 280px;
+    height: 240px;
+    font-size: 64px;
+    line-height: 80px;
+    font-weight: 400;
+}
+
+p{
+    width: 356px;
+    height: 112px;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.text2 p{
+    width: 275px;
+    height: 140px;
+}
+
+button{
+    width: 177px;
+    height: 66px;
+    background-color: #457D61;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 36px;
+    border: 1px solid #457D61;
+    margin-top: 20px;
+}
+
+.middle{
+    position: absolute;
+    top: 160px;
+    left: 550px;
+}
+
+.img1{
+    position: absolute;
+    top: 660px;
+    left: 50px;
+}
+
+.img2{
+    position: absolute;
+    top: 570px;
+    left: 250px;
+}
+
+.img3{
+    position: absolute;
+    top: 50px;
+    right: 250px;
+}
+
+.img4{
+    position: absolute;
+    top: 140px;
+    right: 50px;
+}
+
+.star1{
+    position: absolute;
+    top: 120px;
+    left: 410px;
+}
+
+.star2{
+    position: absolute;
+    top: 410px;
+    right: 300px;
+}

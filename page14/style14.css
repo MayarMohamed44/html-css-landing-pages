@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 50px 70px;
+}
+
+.text{
+    width: 568px;
+    height: 418px;
+    position: relative;
+    top: 220px;
+}
+
+h1{
+    width: 568px;
+    height: 168px;
+    font-size: 64px;
+    line-height: 84px;
+    font-weight: 700;
+}
+
+.text p{
+    width: 500px;
+    height: 108px;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+button{
+    width: 265px;
+    height: 78px;
+    background-color: #FFDE81;
+    font-size: 20px;
+    border-radius: 36px;
+    border: 1px solid #FFDE81;
+}
+
+.rec{
+    width: 650px;
+    height: 168px;
+    background-color: #49342F;
+    border-radius: 24px;
+    position: absolute;
+    top: 780px;
+    left: 70px;
+    z-index: -1;
+}
+
+.blocks{
+    position: absolute;
+    top: 795px;
+    left: 160px;
+    z-index: 1;
+}
+
+.block{
+    width: 110px;
+    height: 120px;
+    display: inline-block;
+    color: white;
+    margin-right: 50px;
+}
+
+hr{
+    width: 20px;
+    height: 0px;
+    border: 2px solid white;
+    margin-left: 0px;
+}
+
+#yellow{
+    position: absolute;
+    top: 142px;
+    left: 780px;
+    z-index: 2;
+}
+
+#brown{
+    position: absolute;
+    top: 154px;
+    right: 70px;
+    z-index: -1;
+}
+
+#mobile{
+    position: absolute;
+    top: 410px;
+    right: 230px;
+    z-index: 3;
+}
+
+#shape1{
+    position: absolute;
+    top: 50px;
+    left: 695px;
+    z-index: 2;
+}
+
+#shape2{
+    position: absolute;
+    top: 760px;
+    right: 90px;
+}
+
+#star-b{
+    position: absolute;
+    top: 320px;
+    right: 120px;
+    z-index: 1;
+}
+
+#star-y{
+    position: absolute;
+    top: 150px;
+    right: 260px;
+    z-index: 2;
+}
+
+#heart{
+    position: absolute;
+    top: 350px;
+    right: 340px;
+    z-index: 2;
+}

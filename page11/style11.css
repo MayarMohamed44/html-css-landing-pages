@@ -1,0 +1,106 @@
+body{
+    font-family: "Avenir", sans-serif;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.main{
+    display: inline-block;
+    margin: 40px;
+    text-align: left;
+}
+
+.text{
+    width: 637px;
+    height: 414px;
+    position: absolute;
+    top: 50px;
+    left: 100px
+}
+
+h1{
+    width: 637px;
+    height: 50px;
+    font-size: 66px;
+    line-height: 88px;
+}
+
+.text p{
+    width: 450px;
+    height: 108px;
+    font-size: 20px;
+    line-height: 25px;
+    color: #252525CC;
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+
+#btn{
+    width: 158px;
+    height: 54px;
+    background-color: #252525;
+    color: #fff;
+    border-radius: 36px;
+    border: 1px solid #252525;
+}
+
+.imgs{
+    width: 650px;
+    height: 520px;
+    position: relative;
+    top: 0px;
+    left: 300px;
+}
+
+#img1{
+    position: absolute;
+    top: 0px;
+    left: 80px;
+    z-index: -1;
+}
+
+#img2{
+    position: absolute;
+    top: 130px;
+    left: 330px;
+    z-index: 0;
+}
+
+.rec{
+    width: 1250px;
+    height: 230px;
+    position: absolute;
+    top: 620px;
+    left: 135px;
+    border-radius: 40px;
+    background-color: #252525;
+}
+
+.block{
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    position: relative;
+    left: 10px;
+    margin: 40px 70px 30px 20px;
+    color: #ffffff;
+}
+
+i{
+    color: #c1bebe;
+}
+
+h3{
+    width: 316px;
+    height: 30px;
+    font-size: 25px;
+    line-height: 100%;
+    margin-bottom: 0px; 
+}
+
+.block p{
+    width: 300px;
+    height: 66px;
+    font-size: 18px;
+    line-height: 30px;
+}

@@ -1,0 +1,103 @@
+body{
+    font-family: 'Avenir', sans-serif;
+    margin: 0px;
+}
+
+.color{
+    width: auto;
+    height: 813px;
+    background-color: #F2F2F2;
+}
+
+.main{
+    width: 483px;
+    height: 426px;
+    position: absolute;
+    top: 150px;
+    left: 130px;
+}
+
+h1{
+    width: 422px;
+    height: 188px;
+    font-size: 72px;
+    line-height: 94px;
+    font-weight: 600;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.main p{
+    width: 460px;
+    height: 132px;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+button{
+    width: 288px;
+    height: 66px;
+    background-color: #252525;
+    color: #FFFFFF;
+    font-size: 24px;
+    border-radius: 36px;
+    border: 1px solid #252525;
+} 
+
+.dish{
+    position: absolute;
+    top: 70px;
+    right: 100px;
+}
+
+.img1{
+    position: absolute;
+    top: 700px;
+    left: 130px;
+}
+
+.img2{
+    position: absolute;
+    top: 700px;
+    left: 360px;
+}
+
+.img3{
+    position: absolute;
+    top: 700px;
+    left: 590px;
+    padding-bottom: 50px;
+}
+
+.text{
+    width: 483px;
+    height: 237px;
+    position: absolute;
+    top: 820px;
+    right: 110px
+}
+
+hr{
+    width: 45px;
+    margin-left: 0px;
+    border: 3px solid #252525;
+}
+
+h4{
+    width: 483px;
+    height: 33px;
+    font-size: 24px;
+    line-height: 32px;  
+    font-weight: 500;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.text p{
+    width: 483px;
+    height: 60px;
+    font-size: 22px;
+    line-height: 32px;
+    color: #252525CC;
+    margin-top: 10px;
+}

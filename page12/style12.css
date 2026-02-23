@@ -1,0 +1,104 @@
+body{
+    font-family: 'Avenir', sans-serif;
+    margin: 20px 50px;
+}
+
+.text{
+    width: 637px;
+    height: 477px;
+    position: absolute;
+    top: 20px;
+    left: 50px;
+}
+
+h1{  
+    font-size: 72px;
+    line-height: 50px;
+    color: #252525;
+}
+
+.text p{
+    width: 519px;
+    height: 99px;
+    font-size: 24px;
+    line-height: 30px;
+    color: #252525CC;
+}
+
+.btn{
+    width: 182px;
+    height: 66px;
+    background-color: #252525;
+    color: #FFFFFF;
+    border-radius: 36px;
+    border: 1px solid #252525;
+}
+
+.img3{
+    width: 316px;
+    height: 436px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+}
+
+.img2{
+    width: 316px;
+    height: 436px;
+    position: absolute;
+    top: 295px;
+    left: 800px;
+}
+
+.img1{
+    width: 316px;
+    height: 436px;
+    position: absolute;
+    top: 540px;
+    left: 450px;
+}
+
+.wave{
+    position: absolute;
+    top: 80px;
+    left: 580px;
+}
+
+.dawn1{
+    position: absolute;
+    top: 400px;
+    left: 675px;
+}
+
+.dawn2{
+    position: absolute;
+    top: 550px;
+    right: 100px;
+}
+
+.spiral{
+    position: absolute;
+    top: 690px;
+    left: 150px;
+}
+
+.inline{
+    display: inline-block;
+    margin: 10px;
+    text-align: left;
+}
+
+.end{
+    position: absolute;
+    top: 838px;
+    right: 80px;
+}
+
+.end p{
+    width: 516px;
+    height: 100px;
+    font-size: 22px;
+    line-height: 30px;
+    color: #252525CC;
+    margin-bottom: 65px;
+}
